@@ -1,1 +1,2 @@
-Welcome to my blog!
+## Welcome to paradox3852's blog!
+The purpose of this blog is to share and translate knowledge into something in which everyone would understand. I hope you love learning as much as I do. All the best and have a great day! If you want to talk to me on a personal basis, you may get in touch with me by clicking the logos below.
