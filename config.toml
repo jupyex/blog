@@ -11,7 +11,7 @@ disqusShortname = "https-hugo-tania-netlify-app"
   titleEmoji  = "⚛️"
 
   # Logo will show before the blog title on site navbar.
-  titleLogo = ""
+  titleLogo = "⚛️"
 
   # Enable float footnotes.
   # Default to true
