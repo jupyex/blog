@@ -1,6 +1,6 @@
-baseurl = "https://jupyex.github.io/paradox3852/"
+baseurl = "https://jupyex.github.io/blog/"
 languageCode = "en-us"
-title = "paradox3852"
+title = "jupyex blog"
 theme = "hugo-tania"
 paginate = 6
 
@@ -17,7 +17,7 @@ disqusShortname = "https-hugo-tania-netlify-app"
   # Default to true
   enableFootnotes = true
 
-  siteName = "paradox3852 blog"
+  siteName = "jupyex blog"
   siteDesc = "i love knowledge!"
   author = "paradox3852"
 

@@ -1,5 +1,5 @@
 ---
-title: "Passion Project - paradox3852 blog"
+title: "Passion Project - jupyex blog"
 date: 2020-11-26
 description: Creating a blog where I share things I have learnt and try to translate them into something that everyone would understand.
 weight: 1
